@@ -24,7 +24,7 @@
 {
     'name': 'Global Discount on Sale Orders & Invoices',
     'version': '1.0',
-    'category': 'Sales',
+    'category': 'Sales Management',
     'description': """
     Define global discount on whole Sale Order and Invoices. \n
     Also add Discount entry in the accounting Entry for Invoices.  
@@ -36,6 +36,7 @@
     'data': ['sale_view.xml'],
     'demo_xml': [],
     'installable': True,
+    'auto_install': False,
 }
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
