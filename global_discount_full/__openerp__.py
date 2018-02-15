@@ -24,7 +24,7 @@
 {
     'name': 'Global Discount on Sale Orders & Invoices',
     'version': '1.0',
-    'license': 'AGPL-3'
+    'license': 'AGPL-3',
     'category': 'Sales Management',
     'description': """
     Define global discount on whole Sale Order and Invoices. \n
