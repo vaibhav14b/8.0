@@ -35,6 +35,7 @@
     'depends': ['base', 'account', 'sale'],
     'init_xml': [],
     'data': ['sale_view.xml'],
+    'images': ['static/description/main.jpg'],
     'demo_xml': [],
     'installable': True,
     'auto_install': False,
